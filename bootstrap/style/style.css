@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #efa;
+}
+
+.card{
+    background-color: transparent;
+    border: none;
+    margin-bottom: 1rem ;
+}
+
+.redes{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar {
+    background-color: #13a4a4;
+}
+
+
+
